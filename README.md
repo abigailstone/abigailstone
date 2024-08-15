@@ -2,7 +2,7 @@
 
 I'm currently a Ph.D. candidate at Tufts University, studying computer vision and machine learning. My most recent research projects have dealt with volume estimation for nutrition logging systems and deep learning algorithms for hyperspectral imaging systems.
 
-As an engineer, I'm passionnate about building tools that help both people and the planet. My favorite projects in both my professional life and my personal tinkering have involved some combination of data science, computer vision, and geographic information systems (GIS). I'm constantly looking for ways to build my skills in each facet of that little nerd-ecosystem.
+As an engineer, I'm passionate about building tools that help both people and the planet. My favorite projects in both my professional life and my personal tinkering have involved some combination of data science, computer vision, and geographic information systems (GIS). I'm constantly looking for ways to build my skills in each facet of that little nerd-ecosystem.
 
 
 | Tools | |
